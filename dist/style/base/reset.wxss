@@ -1,0 +1,6 @@
+/*!
+ * WeUI v0.1.0 (https://github.com/titancat/weChatApp-toolkit)
+ * Copyright 2018 Tencent, Inc.
+ * Licensed under the MIT license
+ */
+page{line-height:1.6;font-family:-apple-system-font,Helvetica Neue,sans-serif}icon{vertical-align:middle}
